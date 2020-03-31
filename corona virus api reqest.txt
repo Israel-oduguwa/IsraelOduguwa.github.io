@@ -1,0 +1,37 @@
+fetch("https://covid-193.p.rapidapi.com/{endpoint}", {
+    "method": "GET",
+    "headers": {
+        "x-rapidapi-host": "covid-193.p.rapidapi.com",
+        "x-rapidapi-key": "XxXxXxXxXxXxXxXxXxXxXxXx"
+    }
+})
+.then(response => {
+    console.log(response);
+})
+.catch(err => {
+    console.log(err);
+});
+
+ api key 86763d8201msh63329e2f833eed9p152ca3jsn20d8c3f910bd
+
+
+    <div class="skills-intro">
+                               <br>
+                               <p><i class="fa fa-scissors" aria-hidden="true"></i> Development and Languages</p>
+                                    <ul class="skills-language">
+                                        
+                                        <li>Html5</li>
+                                        <li>Css3</li>
+                                        <li>Javascript</li>
+                                        <li>Jquery</li>
+                                        <li>Python</li>
+                                        <li>Jekyll</li>
+                                        <li>Bootstrap</li>
+                                        <li>React</li>
+                                    </ul>
+checkmarkGit + Github
+checkmarkCommand Line
+checkmarkChrome DevTools
+checkmarkGrunt + Gulp
+checkmarkPostman                  
+          </div>
